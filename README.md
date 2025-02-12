@@ -68,8 +68,6 @@ Scikit-Learn: para a padronização de dados.
 ### Como Executar
 Clone este repositório.
 Instale as dependências necessárias:
-bash
-Copy
-Edit
+
 pip install pandas numpy matplotlib scikit-learn
 Execute o notebook para explorar o processo de limpeza e preparação de dados.
